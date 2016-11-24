@@ -1,0 +1,6 @@
+XWIN_IMAGE               Windowed position estimate along x                        [pixel]
+YWIN_IMAGE               Windowed position estimate along y                        [pixel]
+MAG_BEST                 Best of MAG_AUTO and MAG_ISOCOR                           [mag]
+MAGERR_BEST              RMS error for MAG_BEST                                    [mag]
+MAG_ISO                  Isophotal magnitude                                       [mag]
+MAGERR_ISO               RMS error for isophotal magnitude                         [mag]
